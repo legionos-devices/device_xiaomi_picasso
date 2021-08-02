@@ -34,3 +34,6 @@ LEGION_BUILD_TYPE := OFFICIAL
 LEGION_MAINTAINER := masemoel
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.maintainer.name=masemoel
+    
+# Security patch level
+VENDOR_SECURITY_PATCH := 2021-08-01
